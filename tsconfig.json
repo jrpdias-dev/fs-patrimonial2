@@ -14,8 +14,8 @@
     "strict": false,
     "noUnusedLocals": false,
     "noUnusedParameters": false,
-    "noFallthroughCasesInSwitch": false,
-    "allowJs": true
+    "allowJs": true,
+    "checkJs": false
   },
   "include": ["src"]
 }
